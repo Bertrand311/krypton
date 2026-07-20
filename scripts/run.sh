@@ -23,3 +23,4 @@ echo "krypton"
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
 # guard against empty input
+# clarify the control flow
